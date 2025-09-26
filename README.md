@@ -9,7 +9,7 @@ Users can add tasks, mark them as done, and delete them. Tasks are stored **in m
 
 1. Clone this repository:
 
-git clone https://github.com/NqobileTwala/TaskListMobileApp.git
+git clone https://github.com/NqobileTwala/Graded-Lab-8.git
 
 2. Navigate into the project folder:
 
@@ -29,3 +29,5 @@ npm start
 3. Scan the QR code displayed in the terminal/browser
 4. The app should load and you can start adding tasks
 
+## Sceenshot of App
+![App Screenshot](Screenshots/mobile%20screenshot.PNG)
