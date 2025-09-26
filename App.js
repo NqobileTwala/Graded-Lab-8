@@ -14,7 +14,7 @@ export default function App() {
   const [tasks, setTasks] = useState([]);
 
   function addTask(name) {
-    if (name.trim() === "") return; //this is do nothing if empty
+    if (name.trim() === "") return; 
     const newTask = {
       id: Date.now().toString(), 
       text: name,
